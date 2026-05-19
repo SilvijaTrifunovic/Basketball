@@ -1,4 +1,4 @@
-# 🏀 Basketball Liga - SQL Server Database
+# 🏀 Basketball Liga - MS SQL
 
 ## 📋 Sadržaj
 
